@@ -1,0 +1,7 @@
+student-grade-management-system/
+│
+├── main.py
+├── database.py
+├── student.py
+├── README.md
+└── requirements.txt
