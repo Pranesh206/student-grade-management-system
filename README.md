@@ -1,2 +1,17 @@
-# student-grade-management-system
-Developed a console-based application to manage student records and grades. The system allows users to add, update, delete, and view student details and marks.  Implemented object-oriented design for student and grade modules  Used SQLite for storing and retrieving student data  Added input validation and menu-driven interface for user interaction
+# Student Grade Management System
+
+A simple console-based Python application to manage student records and grades.
+
+## Features
+- Add, view, update, and delete student records
+- Uses SQLite for persistent storage
+- Object-oriented design for clean structure
+
+## Technologies Used
+- Python
+- SQLite
+- VS Code
+
+## How to Run
+1. Clone the repository
+2. Run `main.py` using Python 3
